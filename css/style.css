@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;700&display=swap');
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+footer{
+	background-color: #339933;
+	padding: 20px 20px;
+}
+
+footer h5{
+	color: black;
+	padding-top: 5px;
+
+}
+
+footer i{
+	color: white;
+	width: 30px;
+}
+
+header {
+	background-color: #F59303;
+	padding: 20px 20px;
+}
+
+#contact{
+	margin-top: 30px;
+	margin-bottom: 82px;
+}
+
+#contact i{
+	color: rgba(5,70,196,1.00);
+}
+
+#contact h2, h4{
+	color: rgba(5,70,196,1.00);
+}
+
+#contact .btn-secondary{
+	background-color: rgba(5,70,196,1.00);
+	display: inline-block;
+	width: inherit;
+	margin-left: 10px;
+}
+
+#me{
+	background-image: url("../img/contacto.png");
+	background-size: cover;
+	background-position: top center;
+}
+
+#me p{
+	padding: 400px 400px;
+	color: white;
+	font-size: 40px;
+	text-align: center;
+	font-weight: 600;
+	margin-top: 20px;
+}
+
+#descripcion p{
+	font-weight: 500;
+	font-size: 16px;
+	text-align: center;
+}
+
+#carrusel{
+	margin-top: 28px;
+}
+
+#carrusel h5{
+	font-size: 55px;
+	font-weight: 700;
+}
+
+#portfolio .spaceone{
+	margin-top: 20px;
+}
+
+#portfolio .spacetwo{
+	margin-top: 20px;
+}
+
+#portfolio .spacethree{
+	margin-top: 20px;
+}
+
+#portfolio .spacefour{
+	margin-top: 20px;
+}
+
+#portfolio .spacefive{
+	margin-top: 20px;
+}
+
+#portfolio{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+h6{
+	text-align: center;
+
+}
